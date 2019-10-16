@@ -1,0 +1,219 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userId": "1",
+      "gender": "F",
+      "firstname": "Marine",
+      "dob": "1995-05-23",
+      "addresses": [
+        {
+          "type": "EML",
+          "phoneCountryCode": 33,
+          "value": "0674713378"
+        }
+      ],
+      "preferedSpokenLanguage": {
+        "code": "fr",
+        "label": "Français"
+      },
+      "spokenLanguages": [
+        {
+          "code": "fr",
+          "label": "Français"
+        },
+        {
+          "code": "en",
+          "label": "Anglais"
+        }
+      ],
+      "avatarURL": "string",
+      "acceptsCodeOfEthics": true,
+      "defaultGenderOption": "F",
+      "password": "MDY3NDcxMzM3ODphemVydHk=",
+      "oldPassword": "MDY3NDcxMzM3ODphemVydHk=",
+      "clubs": [
+        {
+          "clubId": "string",
+          "name": "string"
+        }
+      ],
+      "missingSurveyCount": 0,
+      "creationDate": "2019-04-16T19:45:46.431Z"
+    },
+    {
+      "id": 2,
+      "userId": "2",
+      "gender": "M",
+      "firstname": "Paul",
+      "dob": "1990-11-15",
+      "addresses": [
+        {
+          "type": "EML",
+          "phoneCountryCode": 33,
+          "value": "0612345789"
+        }
+      ],
+      "preferedSpokenLanguage": {
+        "code": "fr",
+        "label": "Français"
+      },
+      "spokenLanguages": [
+        {
+          "code": "fr",
+          "label": "Français"
+        },
+        {
+          "code": "en",
+          "label": "Anglais"
+        }
+      ],
+      "avatarURL": "string",
+      "acceptsCodeOfEthics": true,
+      "defaultGenderOption": "F",
+      "password": "MDY3NDcxMzM3ODphemVydHk=",
+      "oldPassword": "MDY3NDcxMzM3ODphemVydHk=",
+      "clubs": [
+        {
+          "clubId": "string",
+          "name": "string"
+        }
+      ],
+      "missingSurveyCount": 0,
+      "creationDate": "2019-04-16T19:45:46.431Z"
+    }
+  ],
+  "spots": [
+    {
+      "id": 1,
+      "spotId": "1",
+      "name": "ECV Digital",
+      "description": "4 campus en France et des formations web expertes, du généraliste au spécialiste",
+      "location": {
+        "addressLine1": "84 Quai de la Loire",
+        "zipCode": "75019",
+        "city": "Paris",
+        "state": "France",
+        "countryCode": "FR",
+        "latitude": 48.887141,
+        "longitude": 2.378631
+      }
+    },
+    {
+      "id": 2,
+      "spotId": "2",
+      "name": "Le Pavillon des canaux",
+      "description": "Cadre coloré, collaborations & café",
+      "location": {
+        "addressLine1": "39 Quai de la Loire",
+        "zipCode": "75019",
+        "city": "Paris",
+        "state": "France",
+        "countryCode": "FR",
+        "latitude": 48.887454,
+        "longitude": 2.37869
+      }
+    },
+    {
+      "id": 3,
+      "spotId": "3",
+      "name": "Paname Brewing Company",
+      "description": "Ce café-bar-restaurant propose une carte de collations et boissons dans différentes pièces cosy et colorées.",
+      "location": {
+        "addressLine1": "41 bis Quai de la Loire",
+        "zipCode": "75019",
+        "city": "Paris",
+        "state": "France",
+        "countryCode": "FR",
+        "latitude": 48.887885,
+        "longitude": 2.379055
+      }
+    },
+    {
+      "id": 4,
+      "spotId": "4",
+      "name": "Le Comptoir",
+      "description": "Café-bar-restaurant",
+      "location": {
+        "addressLine1": "30 avenue Corentin Cariou",
+        "zipCode": "75019",
+        "city": "Paris",
+        "state": "France",
+        "countryCode": "FR",
+        "latitude": 48.895788,
+        "longitude": 2.388245
+      }
+    }
+  ],
+  "availables": [
+    {
+      "userId": 1,
+      "start": 15,
+      "end": 16,
+      "latitude": 48.86261383076092,
+      "longitude": 2.3995999898783857,
+      "gender": "M",
+      "spotId": 1,
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "start": 15,
+      "end": 16,
+      "latitude": 48.86261383076092,
+      "longitude": 2.3995999898783857,
+      "gender": "F",
+      "spotId": 1,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "start": 18,
+      "end": 19,
+      "latitude": 48.862583530180956,
+      "longitude": 2.3995735030643637,
+      "gender": "M",
+      "spotId": "2",
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "start": 18,
+      "end": 19,
+      "latitude": 48.862583530180956,
+      "longitude": 2.3995735030643637,
+      "gender": "F",
+      "spotId": "2",
+      "id": 4
+    }
+  ],
+  "meetings": [
+    {
+      "userId": 1,
+      "person": {
+        "userId": "2"
+      },
+      "date": "2019-05-26",
+      "startTime": 15,
+      "endTime": 16,
+      "isAcceptedByUser": true,
+      "isAcceptedByPerson": true,
+      "spotId": 1,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "person": {
+        "userId": "2"
+      },
+      "date": "2019-05-26",
+      "startTime": 15,
+      "endTime": 16,
+      "isAcceptedByUser": true,
+      "isAcceptedByPerson": true,
+      "spotId": 1,
+      "id": 2
+    }
+  ],
+  "surveys": []
+}

@@ -4,7 +4,7 @@ Proposition d'application mobile pour l'entreprise [OpenBubble](https://www.open
 ## Copyright
 © ChRachou & [Marinesl](https://github.com/marinesl)
 
-##Lancement du projet:
+## Lancement du projet:
 
 * cloner le projet et run `npm install`
 * lancer l'application: `expo start` 

@@ -1,4 +1,4 @@
-# PROJET DE FIN D'ETUDE PROFESIONEL
+# PROJET DE FIN D'ETUDE PROFESSIONNEL
 Proposition d'application mobile pour l'entreprise [OpenBubble](https://www.openbubble.eu)
 
 ## Copyright

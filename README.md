@@ -1,23 +1,23 @@
 # PROJET DE FIN D'ETUDE PROFESIONEL
-Proposition d'application mobile pour l'entreprise (https://www.openbubble.eu)[OpenBubble] 
+Proposition d'application mobile pour l'entreprise [OpenBubble] (https://www.openbubble.eu)
 
 ## Copyright
-© ChRachou & (https://github.com/marinesl)[Marinesl]
+© ChRachou & [Marinesl](https://github.com/marinesl)
 
 
 # Documentation React Native
 
 ## React Native Radio Buttons
-(https://www.npmjs.com/package/react-native-radio-buttons)[Documentation NPM]
+[Documentation NPM](https://www.npmjs.com/package/react-native-radio-buttons)
 
 ## React Native Slider
-(https://react-native-training.github.io/react-native-elements/docs/slider.html)[Document React]
+[Document React](https://react-native-training.github.io/react-native-elements/docs/slider.html)
 
 ## React Native Geolocation
-(https://www.npmjs.com/package/react-native-geolocation-service)[Documentation NPM]
+[Documentation NPM](https://www.npmjs.com/package/react-native-geolocation-service)
 
 ## React Native Maps
-(https://www.npmjs.com/package/react-native-maps)[Documentation NPM]
+[Documentation NPM](https://www.npmjs.com/package/react-native-maps)
 
 ## API Fetch
-(https://putaindecode.io/articles/votre-premiere-app-react-native)[Tuto]
+[Tuto](https://putaindecode.io/articles/votre-premiere-app-react-native)

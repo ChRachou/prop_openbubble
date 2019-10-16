@@ -1,6 +1,8 @@
 # PROJET DE FIN D'ETUDE PROFESSIONNEL
 Proposition d'application mobile pour l'entreprise [OpenBubble](https://www.openbubble.eu)
 
+Présentation PDF du projet: [FrizzyLove](https://rachelchoisis.files.wordpress.com/2019/09/open-bubble.pdf)
+
 ## Copyright
 © ChRachou & [Marinesl](https://github.com/marinesl)
 

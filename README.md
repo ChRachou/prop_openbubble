@@ -1,9 +1,13 @@
 # PROJET DE FIN D'ETUDE PROFESIONEL
-Proposition d'application mobile pour l'entreprise [OpenBubble] (https://www.openbubble.eu)
+Proposition d'application mobile pour l'entreprise [OpenBubble](https://www.openbubble.eu)
 
 ## Copyright
 © ChRachou & [Marinesl](https://github.com/marinesl)
 
+##Lancement du projet:
+
+* cloner le projet et run `npm install`
+* lancer l'application: `expo start` 
 
 # Documentation React Native
 
